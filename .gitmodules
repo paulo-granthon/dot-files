@@ -1,0 +1,15 @@
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/paulo-granthon/alacritty
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/paulo-granthon/nvim
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/paulo-granthon/awesomewm
+[submodule "polybar"]
+	path = polybar
+	url = https://github.com/paulo-granthon/polybar
+[submodule "firefox"]
+	path = firefox
+	url = https://github.com/paulo-granthon/firefox
